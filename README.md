@@ -18,8 +18,7 @@ To get different resolution of thumbnail:
 - https://img.youtube.com/vi/video_id/hqdefault.jpg       (For high quality resolution)
 - https://img.youtube.com/vi/video_id/maxresdefault.jpg   (For maximum resolution)
 
-// video_id -> is the id which is in the url query
-// For example: https://www.youtube.com/watch?v=video_id
+// video_id -> is the id which is in the url query. For example: https://www.youtube.com/watch?v=video_id
   
 ### Note 
 You won't be able to download video/audio/thumbnail of copyrighted videos. (For most of the songs produced by any Label). For thumbnail you can download via video id with the help of above mothod.
