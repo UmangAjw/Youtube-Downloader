@@ -6,7 +6,7 @@ YouTube Downloader is an application through which you will be able to download 
 Obviously you need to have python in your systems. Additionally you need to have pytube. Else tkinter and other modules would already included.
 
 ### Installing pytube
-```pip install pytube```
+```pip install pytube3```
 
 ### Protips
 Bydefault best quality video, audio & thumbnail. If you want to download other resolutions of video & audio you can simply get list all the streams available using
